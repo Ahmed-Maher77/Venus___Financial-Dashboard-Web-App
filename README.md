@@ -6,7 +6,7 @@ Venus is a modern and responsive financial dashboard application designed for tr
 
 ## 🌐 Demo (Live Preview)
 
-**🔗 Live Site:** [https://venus-financial-dashboard-web-app.vercel.app/](https://venus-financial-dashboard-web-app.vercel.app/)
+**🔗 Live Site:** [https://venus-financial-dashboard.netlify.app/](https://venus-financial-dashboard.netlify.app/)
 
 ---
 
@@ -48,7 +48,7 @@ Venus is a modern and responsive financial dashboard application designed for tr
 
 ## 👀 Website Preview
 
-<a href="https://venus-financial-dashboard-web-app.vercel.app/" title="demo">
+<a href="https://venus-financial-dashboard.netlify.app/" title="demo">
   <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 </a>
 
