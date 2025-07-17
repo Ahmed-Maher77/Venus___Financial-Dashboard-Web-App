@@ -4,7 +4,7 @@ import Link from '@mui/material/Link';
 const Footer = () => {
   return (
     <Typography
-      mt={0.5}
+        mt={0.5}
       px={1}
       py={3}
       color="text.secondary"
