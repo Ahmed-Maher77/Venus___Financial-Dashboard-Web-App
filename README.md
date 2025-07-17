@@ -22,7 +22,7 @@ Venus is a modern and responsive financial dashboard application designed for tr
 - **Data Grid:** @mui/x-data-grid
 - **Icons:** @iconify/react, custom `IconifyIcon` component
 - **Linting & Formatting:** ESLint, Prettier
-- **Deployment:** gh-pages
+- **Deployment:** Vercel
 - **Vite Plugins:** Type checking and path aliasing
 
 ---
